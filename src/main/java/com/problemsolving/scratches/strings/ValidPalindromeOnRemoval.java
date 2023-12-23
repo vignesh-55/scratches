@@ -1,4 +1,6 @@
-class validPalindromeOnRemoval{
+package com.problemsolving.scratches.strings;
+
+class ValidPalindromeOnRemoval{
     public static void main(String[] args) {
         String s = "abccab";
         System.out.println(isPalindrome(s));
